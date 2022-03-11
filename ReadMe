@@ -1,1 +1,1 @@
-
+RECOMMENDATION system built based on dataset of banglore zomato ratings and reviews using pyspark and collaborative filtering methodology with cosine similarity
